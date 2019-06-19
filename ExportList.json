@@ -1,6 +1,6 @@
 [
 {"_id":"0","name":"first","user":"Marek","location":"zlotaKaczka"},
-{"_id":"1","name":"dwa","user":"Sebastian","location":"Kwadrat"}
-{"_id":"2","name":"three","user":"Aria","location":"Witherfall"}
+{"_id":"1","name":"dwa","user":"Sebastian","location":"Kwadrat"},
+{"_id":"2","name":"three","user":"Aria","location":"Witherfall"},
 {"_id":"3","name":"other","user":"Flash","location":"Starcity"}
 ]
