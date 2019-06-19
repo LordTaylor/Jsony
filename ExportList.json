@@ -1,21 +1,25 @@
 [{
 	"_id": "0",
 	"name": "first",
+	"date":"12.01.2019",
 	"user": "Marek",
 	"location": "zlotaKaczka"
 }, {
 	"_id": "1",
 	"name": "dwa",
+	"date":"12.06.2019",
 	"user": "Sebastian",
 	"location": "Kwadrat"
 }, {
 	"_id": "2",
 	"name": "three",
+	"date":"12.02.2016",
 	"user": "Aria",
 	"location": "Witherfall"
 }, {
 	"_id": "3",
 	"name": "other",
+	"date":"01.09.2018",
 	"user": "Flash",
 	"location": "Starcity"
 }]
